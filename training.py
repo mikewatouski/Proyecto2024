@@ -52,5 +52,5 @@ for document in documents:
     output_row[classes.index(document[1])] = 1
     training.append([bag, output_row])
 random.shuffle(training)
-training = np.array(training)
+# training = np.array(training)
 print(training)
