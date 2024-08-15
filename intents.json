@@ -1,14 +1,152 @@
-{"intents":[
-    {
+{
+    "intents": [
+      {
         "tag": "saludo",
-        "patterns": ["hola", "qué tal", "cómo estás", "saludos"],
-        "responses": ["Hola!", "Buenos días!", "¿Cómo estás?"]
-    },
-    {
+        "patterns": [
+          "hola",
+          "qué tal",
+          "cómo estás",
+          "saludos",
+          "hey",
+          "buenos días",
+          "buenas tardes",
+          "buenas noches",
+          "hola, ¿cómo te va?",
+          "hola a todos",
+          "¿qué hay de nuevo?",
+          "¿cómo te va?"
+        ],
+        "responses": [
+          "¡Hola!",
+          "Buenos días, ¿cómo estás?",
+          "¡Buenas tardes! ¿En qué puedo ayudarte?",
+          "¡Buenas noches!",
+          "¿Cómo estás?",
+          "¡Hola, qué tal!",
+          "Hola, ¿cómo te va?",
+          "Saludos, ¿cómo puedo ayudarte hoy?"
+        ]
+      },
+      {
         "tag": "nombre",
-        "patterns": ["cómo es tu nombre", "cómo te llamas"],
-        "responses": ["Me llamo Juan Pablo", "Mi nombre es Juan Pablo"]
-    }
-]
-
-}
+        "patterns": [
+          "cómo es tu nombre",
+          "cómo te llamas",
+          "cuál es tu nombre",
+          "dime tu nombre",
+          "quién eres",
+          "cómo te llamas tú"
+        ],
+        "responses": [
+          "Me llamo Juan Pablo",
+          "Mi nombre es Juan Pablo",
+          "Puedes llamarme Juan Pablo",
+          "Soy Juan Pablo, tu asistente"
+        ]
+      },
+      {
+        "tag": "despedida",
+        "patterns": [
+          "adiós",
+          "hasta luego",
+          "nos vemos",
+          "chau",
+          "me voy",
+          "bye",
+          "hasta la próxima",
+          "cuídate",
+          "nos vemos más tarde"
+        ],
+        "responses": [
+          "¡Adiós! Que tengas un buen día.",
+          "Hasta luego, ¡cuídate!",
+          "Nos vemos pronto.",
+          "Chau, ¡fue un placer ayudarte!"
+        ]
+      },
+      {
+        "tag": "agradecimiento",
+        "patterns": [
+          "gracias",
+          "muchas gracias",
+          "te agradezco",
+          "gracias por tu ayuda",
+          "eres muy útil",
+          "mil gracias",
+          "gracias, hasta luego"
+        ],
+        "responses": [
+          "¡De nada!",
+          "Siempre a tu disposición.",
+          "No hay de qué.",
+          "¡Me alegra haber sido de ayuda!",
+          "¡Estoy aquí para ayudarte siempre!"
+        ]
+      },
+      {
+        "tag": "ayuda",
+        "patterns": [
+          "necesito ayuda",
+          "¿puedes ayudarme?",
+          "ayuda, por favor",
+          "no sé cómo hacer esto",
+          "estoy perdido",
+          "¿me puedes ayudar?",
+          "no entiendo esto",
+          "¿me puedes explicar?"
+        ],
+        "responses": [
+          "Claro, ¿en qué necesitas ayuda?",
+          "Estoy aquí para ayudarte, dime qué necesitas.",
+          "Por supuesto, ¿qué puedo hacer por ti?",
+          "Dime cómo puedo ayudarte, y lo haré."
+        ]
+      },
+      {
+        "tag": "horario",
+        "patterns": [
+          "¿cuál es tu horario?",
+          "¿cuándo estás disponible?",
+          "¿a qué hora estás disponible?",
+          "¿puedes ayudarme a cualquier hora?",
+          "¿estás disponible ahora?"
+        ],
+        "responses": [
+          "Estoy disponible 24/7 para ayudarte.",
+          "Puedes contactarme en cualquier momento, siempre estoy aquí.",
+          "Estoy disponible en cualquier momento que me necesites."
+        ]
+      },
+      {
+        "tag": "ubicación",
+        "patterns": [
+          "¿dónde estás?",
+          "¿cuál es tu ubicación?",
+          "¿dónde te encuentro?",
+          "¿estás en algún lugar específico?",
+          "¿dónde estás ubicado?"
+        ],
+        "responses": [
+          "Estoy en la nube, siempre accesible desde cualquier lugar.",
+          "No tengo una ubicación física, pero siempre estoy aquí para ayudarte.",
+          "Puedes encontrarme en cualquier dispositivo conectado a Internet."
+        ]
+      },
+      {
+        "tag": "información",
+        "patterns": [
+          "¿puedes darme información?",
+          "¿qué información tienes?",
+          "dame más detalles",
+          "cuéntame más sobre eso",
+          "quiero saber más"
+        ],
+        "responses": [
+          "Claro, ¿qué tipo de información necesitas?",
+          "Estoy aquí para darte toda la información que necesites, dime de qué se trata.",
+          "Puedo proporcionarte información sobre varios temas, solo pregunta."
+        ]
+      }
+    ]
+  }
+  
