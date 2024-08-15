@@ -17,14 +17,14 @@
           "¿cómo te va?"
         ],
         "responses": [
-          "¡Hola!",
-          "Buenos días, ¿cómo estás?",
-          "¡Buenas tardes! ¿En qué puedo ayudarte?",
-          "¡Buenas noches!",
-          "¿Cómo estás?",
-          "¡Hola, qué tal!",
-          "Hola, ¿cómo te va?",
-          "Saludos, ¿cómo puedo ayudarte hoy?"
+          "¡Hola! Soy SkyLine, tu asistente virtual. ¿En qué puedo ayudarte hoy?",
+          "Buenos días, soy SkyLine. ¿Cómo estás?",
+          "¡Buenas tardes! Soy tu asistente virtual, SkyLine. ¿Cómo va tu día?",
+          "¡Buenas noches! SkyLine aquí, ¿en qué puedo asistirte?",
+          "¿Cómo estás? Soy SkyLine, tu asistente virtual de viajes.",
+          "¡Hola, qué tal! Soy SkyLine, ¿necesitas ayuda con algo?",
+          "Hola, soy SkyLine, tu asistente virtual. ¿Cómo te va?",
+          "Saludos, soy SkyLine, ¿cómo puedo ayudarte hoy?"
         ]
       },
       {
@@ -38,10 +38,10 @@
           "cómo te llamas tú"
         ],
         "responses": [
-          "Me llamo Juan Pablo",
-          "Mi nombre es Juan Pablo",
-          "Puedes llamarme Juan Pablo",
-          "Soy Juan Pablo, tu asistente"
+          "Soy SkyLine, tu asistente virtual de viajes.",
+          "Puedes llamarme SkyLine, tu asistente virtual.",
+          "Soy SkyLine, un asistente virtual diseñado para ayudarte con tus viajes.",
+          "Mi nombre es SkyLine, y estoy aquí para ayudarte con tus viajes."
         ]
       },
       {
@@ -58,10 +58,10 @@
           "nos vemos más tarde"
         ],
         "responses": [
-          "¡Adiós! Que tengas un buen día.",
-          "Hasta luego, ¡cuídate!",
-          "Nos vemos pronto.",
-          "Chau, ¡fue un placer ayudarte!"
+          "¡Adiós! Soy SkyLine, y espero que tengas un buen viaje.",
+          "Hasta luego, ¡cuídate mucho! SkyLine siempre estará aquí para ayudarte.",
+          "Nos vemos pronto, y recuerda que SkyLine, tu asistente virtual, siempre estará aquí para ayudarte.",
+          "Chau, ¡que todo salga bien en tu viaje! SkyLine te acompaña."
         ]
       },
       {
@@ -76,11 +76,10 @@
           "gracias, hasta luego"
         ],
         "responses": [
-          "¡De nada!",
-          "Siempre a tu disposición.",
-          "No hay de qué.",
-          "¡Me alegra haber sido de ayuda!",
-          "¡Estoy aquí para ayudarte siempre!"
+          "¡De nada! Soy SkyLine, tu asistente virtual, y estoy aquí para ayudarte.",
+          "Es un placer poder ayudarte. SkyLine siempre está a tu disposición.",
+          "No hay de qué, ¡para eso estoy! SkyLine, tu asistente virtual, siempre a tu servicio.",
+          "Me alegra poder ser de ayuda. ¡Buen viaje! Atentamente, SkyLine."
         ]
       },
       {
@@ -96,55 +95,110 @@
           "¿me puedes explicar?"
         ],
         "responses": [
-          "Claro, ¿en qué necesitas ayuda?",
-          "Estoy aquí para ayudarte, dime qué necesitas.",
-          "Por supuesto, ¿qué puedo hacer por ti?",
-          "Dime cómo puedo ayudarte, y lo haré."
+          "Claro, soy SkyLine, tu asistente virtual. ¿En qué necesitas ayuda?",
+          "SkyLine aquí, estoy listo para ayudarte, dime qué necesitas.",
+          "Por supuesto, soy SkyLine, tu asistente virtual. ¿Qué puedo hacer por ti?",
+          "Dime cómo puedo ayudarte, soy SkyLine y estoy aquí para asistirte."
         ]
       },
       {
-        "tag": "horario",
+        "tag": "problema_vuelo",
         "patterns": [
-          "¿cuál es tu horario?",
-          "¿cuándo estás disponible?",
-          "¿a qué hora estás disponible?",
-          "¿puedes ayudarme a cualquier hora?",
-          "¿estás disponible ahora?"
+          "mi vuelo se retrasó",
+          "tengo un problema con mi vuelo",
+          "mi vuelo fue cancelado",
+          "¿qué hago si pierdo mi vuelo?",
+          "hay un problema con mi vuelo"
         ],
         "responses": [
-          "Estoy disponible 24/7 para ayudarte.",
-          "Puedes contactarme en cualquier momento, siempre estoy aquí.",
-          "Estoy disponible en cualquier momento que me necesites."
+          "Lamento escuchar eso. Soy SkyLine, tu asistente virtual, ¿te gustaría que te ayudara a buscar opciones alternativas?",
+          "Entiendo, es una situación difícil. SkyLine está aquí para ayudarte a encontrar la próxima mejor opción disponible.",
+          "Si pierdes tu vuelo, lo mejor es contactar con la aerolínea para ver opciones de reprogramación. SkyLine te puede ayudar con eso.",
+          "SkyLine está aquí para ayudarte a resolverlo, ¿qué información adicional necesitas?"
         ]
       },
       {
-        "tag": "ubicación",
+        "tag": "equipaje_perdido",
         "patterns": [
-          "¿dónde estás?",
-          "¿cuál es tu ubicación?",
-          "¿dónde te encuentro?",
-          "¿estás en algún lugar específico?",
-          "¿dónde estás ubicado?"
+          "perdí mi equipaje",
+          "mi equipaje no llegó",
+          "no encuentro mi maleta",
+          "mi equipaje está perdido",
+          "¿qué hago si pierdo mi equipaje?"
         ],
         "responses": [
-          "Estoy en la nube, siempre accesible desde cualquier lugar.",
-          "No tengo una ubicación física, pero siempre estoy aquí para ayudarte.",
-          "Puedes encontrarme en cualquier dispositivo conectado a Internet."
+          "Lamento escuchar eso. Soy SkyLine, lo primero que debes hacer es contactar con la aerolínea para reportarlo.",
+          "Es importante que informes a la aerolínea lo antes posible. SkyLine te puede ayudar a encontrar el número de contacto.",
+          "No te preocupes, SkyLine está aquí para ayudarte. Lo más importante es notificarlo a la aerolínea. ¿Quieres que te ayude con eso?",
+          "Reportar el equipaje perdido es el primer paso. SkyLine puede ayudarte a saber cómo hacer un seguimiento."
         ]
       },
       {
-        "tag": "información",
+        "tag": "documentacion_viaje",
         "patterns": [
-          "¿puedes darme información?",
-          "¿qué información tienes?",
-          "dame más detalles",
-          "cuéntame más sobre eso",
-          "quiero saber más"
+          "¿qué documentos necesito para viajar?",
+          "¿necesito un pasaporte?",
+          "¿cuáles son los requisitos para viajar?",
+          "¿necesito una visa?",
+          "¿qué documentación es necesaria para viajar?"
         ],
         "responses": [
-          "Claro, ¿qué tipo de información necesitas?",
-          "Estoy aquí para darte toda la información que necesites, dime de qué se trata.",
-          "Puedo proporcionarte información sobre varios temas, solo pregunta."
+          "Depende del destino. Soy SkyLine, y usualmente necesitas un pasaporte válido y, en algunos casos, una visa.",
+          "Para la mayoría de los destinos internacionales, necesitarás un pasaporte. SkyLine está aquí para darte más detalles.",
+          "Algunos países requieren visas además del pasaporte. ¿A qué país planeas viajar? SkyLine te ayudará con eso.",
+          "Te puedo ayudar a verificar los requisitos específicos del país al que viajas. SkyLine está aquí para asistirte. ¿Dónde planeas ir?"
+        ]
+      },
+      {
+        "tag": "salud_viaje",
+        "patterns": [
+          "¿necesito vacunas para viajar?",
+          "¿qué precauciones de salud debo tomar?",
+          "¿hay requisitos de salud para viajar?",
+          "¿qué hago si me enfermo en mi viaje?",
+          "¿necesito un seguro de salud para viajar?"
+        ],
+        "responses": [
+          "Algunos destinos requieren vacunas específicas. SkyLine puede ayudarte a saber más sobre algún país en particular.",
+          "Es recomendable tener un seguro de salud al viajar. ¿Te gustaría más información sobre eso? SkyLine está aquí para ayudarte.",
+          "Si te enfermas durante tu viaje, contacta a un médico local o a tu seguro de salud. SkyLine te recomienda siempre estar preparado.",
+          "Las vacunas y el seguro de salud son importantes. SkyLine puede ayudarte a encontrar más información sobre eso."
+        ]
+      },
+      {
+        "tag": "entretenimiento_viaje",
+        "patterns": [
+          "¿qué puedo hacer en el avión?",
+          "¿hay entretenimiento a bordo?",
+          "¿qué actividades hay para pasar el tiempo?",
+          "me aburro en el vuelo, ¿qué puedo hacer?",
+          "¿cómo puedo entretenerme durante el viaje?"
+        ],
+        "responses": [
+          "Muchas aerolíneas ofrecen entretenimiento a bordo, como películas y música. SkyLine te recomienda prepararte antes del vuelo.",
+          "Puedes llevar un libro, descargar películas o podcasts para entretenerte durante el vuelo. SkyLine sugiere prepararte con anticipación.",
+          "Algunos aviones tienen Wi-Fi para que puedas navegar por Internet. SkyLine puede ayudarte a saber más sobre las opciones.",
+          "Si te aburres fácilmente, SkyLine te sugiere preparar algunos juegos o actividades que te mantengan entretenido."
+        ]
+      },
+      {
+        "tag": "conversacion_general",
+        "patterns": [
+          "¿cómo estás?",
+          "¿cómo te va?",
+          "¿qué tal?",
+          "¿qué estás haciendo?",
+          "cuéntame algo",
+          "¿qué piensas de los viajes?",
+          "¿te gusta viajar?",
+          "¿has viajado alguna vez?"
+        ],
+        "responses": [
+          "Estoy aquí para ayudarte en lo que necesites, especialmente en tus viajes. Soy SkyLine, tu asistente virtual.",
+          "Siempre estoy listo para ayudarte con cualquier consulta de viaje que tengas. Soy SkyLine, tu asistente virtual de viajes.",
+          "Viajar es una experiencia increíble. SkyLine siempre está aquí para asistirte. ¿Tienes algún destino en mente?",
+          "Me encanta asistir a personas que aman viajar. Soy SkyLine, tu asistente virtual. ¿En qué te puedo ayudar hoy?"
+  
         ]
       }
     ]
