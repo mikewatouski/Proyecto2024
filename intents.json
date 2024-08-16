@@ -9,6 +9,7 @@
         "saludos",
         "hey",
         "buenos días",
+        "que hacias",
         "buenas tardes",
         "buenas noches",
         "hola, ¿cómo te va?",
@@ -27,7 +28,8 @@
         "¿Cómo estás? Soy SkyLine, tu asistente virtual de viajes.",
         "¡Hola, qué tal! Soy SkyLine, ¿necesitas ayuda con algo?",
         "Hola, soy SkyLine, tu asistente virtual. ¿Cómo te va?",
-        "Saludos, soy SkyLine, ¿cómo puedo ayudarte hoy?"
+        "Saludos, soy SkyLine, ¿cómo puedo ayudarte hoy?",
+        "Buenas, bien y vos?"
       ]
     },
     {
@@ -100,6 +102,7 @@
       "patterns": [
         "necesito ayuda",
         "¿puedes ayudarme?",
+        "ayuda",
         "ayuda, por favor",
         "no sé cómo hacer esto",
         "estoy perdido",
@@ -114,7 +117,8 @@
         "SkyLine aquí, estoy listo para ayudarte, dime qué necesitas.",
         "Por supuesto, soy SkyLine, tu asistente virtual. ¿Qué puedo hacer por ti?",
         "Dime cómo puedo ayudarte, soy SkyLine y estoy aquí para asistirte.",
-        "Estoy aquí para ayudarte, solo dime en qué necesitas asistencia."
+        "Estoy aquí para ayudarte, solo dime en qué necesitas asistencia.",
+        "Hola, decime en que te puedo ayudar"
       ]
     },
     {
@@ -143,6 +147,8 @@
         "perdí mi equipaje",
         "mi equipaje no llegó",
         "no encuentro mi maleta",
+        "perdi mi valija",
+        "valija perdida",
         "mi equipaje está perdido",
         "¿qué hago si pierdo mi equipaje?",
         "mi maleta no apareció",
@@ -338,6 +344,7 @@
     {
       "tag": "entretenimiento",
       "patterns": [
+        "estoy aburrido que puedo hacer",
         "¿qué puedo hacer en mi destino?",
         "¿hay actividades recreativas?",
         "¿qué lugares turísticos debo visitar?",
@@ -363,7 +370,8 @@
         "¿tienes algún consejo para evitar el jet lag?",
         "¿qué debo empacar?",
         "¿cómo puedo hacer que mi viaje sea más cómodo?",
-        "¿tienes alguna sugerencia para mi viaje?"
+        "¿tienes alguna sugerencia para mi viaje?",
+        "tenes algun tip para el viaje"
       ],
       "responses": [
         "SkyLine está lleno de consejos útiles para tus viajes. Déjame ayudarte a preparar tu próximo viaje con éxito.",
