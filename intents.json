@@ -9,7 +9,6 @@
         "saludos",
         "hey",
         "buenos días",
-        "que hacias",
         "buenas tardes",
         "buenas noches",
         "hola, ¿cómo te va?",
@@ -28,8 +27,7 @@
         "¿Cómo estás? Soy SkyLine, tu asistente virtual de viajes.",
         "¡Hola, qué tal! Soy SkyLine, ¿necesitas ayuda con algo?",
         "Hola, soy SkyLine, tu asistente virtual. ¿Cómo te va?",
-        "Saludos, soy SkyLine, ¿cómo puedo ayudarte hoy?",
-        "Buenas, bien y vos?"
+        "Saludos, soy SkyLine, ¿cómo puedo ayudarte hoy?"
       ]
     },
     {
@@ -46,10 +44,9 @@
         "cómo te llaman"
       ],
       "responses": [
-        "Soy SkyLine, tu asistente virtual de viajes.",
+        "Mi nombre es SkyLine, y estoy aquí para ayudarte con tus viajes.",
         "Puedes llamarme SkyLine, tu asistente virtual.",
-        "Soy SkyLine, un asistente virtual diseñado para ayudarte con tus viajes.",
-        "Mi nombre es SkyLine, y estoy aquí para ayudarte con tus viajes."
+        "Soy SkyLine, un asistente virtual diseñado para ayudarte con tus viajes."
       ]
     },
     {
@@ -68,11 +65,11 @@
         "hasta pronto"
       ],
       "responses": [
-        "¡Adiós! Soy SkyLine, y espero que tengas un buen viaje.",
-        "Hasta luego, ¡cuídate mucho! SkyLine siempre estará aquí para ayudarte.",
-        "Nos vemos pronto, y recuerda que SkyLine, tu asistente virtual, siempre estará aquí para ayudarte.",
-        "Chau, ¡que todo salga bien en tu viaje! SkyLine te acompaña.",
-        "¡Hasta pronto! SkyLine estará aquí cuando lo necesites."
+        "¡Adiós! Espero que tengas un buen viaje.",
+        "Hasta luego, ¡cuídate mucho!",
+        "Nos vemos pronto, recuerda que siempre estaré aquí para ayudarte.",
+        "Chau, ¡que todo salga bien en tu viaje!",
+        "¡Hasta pronto! Estaré aquí cuando lo necesites."
       ]
     },
     {
@@ -90,11 +87,11 @@
         "agradezco tu ayuda"
       ],
       "responses": [
-        "¡De nada! Soy SkyLine, tu asistente virtual, y estoy aquí para ayudarte.",
-        "Es un placer poder ayudarte. SkyLine siempre está a tu disposición.",
-        "No hay de qué, ¡para eso estoy! SkyLine, tu asistente virtual, siempre a tu servicio.",
-        "Me alegra poder ser de ayuda. ¡Buen viaje! Atentamente, SkyLine.",
-        "¡De nada! SkyLine está aquí para ayudarte en cualquier momento."
+        "¡De nada! Estoy aquí para ayudarte.",
+        "Es un placer poder ayudarte. Siempre a tu disposición.",
+        "No hay de qué, ¡para eso estoy!",
+        "Me alegra poder ser de ayuda. ¡Buen viaje!",
+        "¡De nada! Estoy aquí para ayudarte en cualquier momento."
       ]
     },
     {
@@ -102,7 +99,6 @@
       "patterns": [
         "necesito ayuda",
         "¿puedes ayudarme?",
-        "ayuda",
         "ayuda, por favor",
         "no sé cómo hacer esto",
         "estoy perdido",
@@ -113,12 +109,11 @@
         "no sé qué hacer"
       ],
       "responses": [
-        "Claro, soy SkyLine, tu asistente virtual. ¿En qué necesitas ayuda?",
-        "SkyLine aquí, estoy listo para ayudarte, dime qué necesitas.",
-        "Por supuesto, soy SkyLine, tu asistente virtual. ¿Qué puedo hacer por ti?",
-        "Dime cómo puedo ayudarte, soy SkyLine y estoy aquí para asistirte.",
-        "Estoy aquí para ayudarte, solo dime en qué necesitas asistencia.",
-        "Hola, decime en que te puedo ayudar"
+        "Claro, ¿en qué necesitas ayuda?",
+        "Estoy listo para ayudarte, dime qué necesitas.",
+        "Por supuesto, ¿qué puedo hacer por ti?",
+        "Dime cómo puedo ayudarte, estoy aquí para asistirte.",
+        "Estoy aquí para ayudarte, solo dime en qué necesitas asistencia."
       ]
     },
     {
@@ -131,14 +126,18 @@
         "hay un problema con mi vuelo",
         "mi vuelo está demorado",
         "mi vuelo no salió a tiempo",
-        "el avión no llegó"
+        "el avión no llegó",
+        "perdí mi vuelo",
+        "mi vuelo fue cancelado y lo perdí",
+        "no alcancé mi vuelo",
+        "perdí el avión"
       ],
       "responses": [
-        "Lamento escuchar eso. Soy SkyLine, tu asistente virtual, ¿te gustaría que te ayudara a buscar opciones alternativas?",
-        "Entiendo, es una situación difícil. SkyLine está aquí para ayudarte a encontrar la próxima mejor opción disponible.",
-        "Si pierdes tu vuelo, lo mejor es contactar con la aerolínea para ver opciones de reprogramación. SkyLine te puede ayudar con eso.",
-        "SkyLine está aquí para ayudarte a resolverlo, ¿qué información adicional necesitas?",
-        "Lo siento mucho, es una situación complicada. SkyLine puede ayudarte a buscar un nuevo vuelo."
+        "Lamento escuchar que has perdido tu vuelo. Te recomiendo que contactes a la aerolínea lo antes posible para ver opciones de reprogramación o reembolso.",
+        "Entiendo, es una situación difícil. Puedo ayudarte a encontrar la próxima mejor opción disponible.",
+        "Si pierdes tu vuelo, lo mejor es contactar con la aerolínea para ver opciones de reprogramación.",
+        "Estoy aquí para ayudarte a resolverlo, ¿qué información adicional necesitas?",
+        "Lo siento mucho, es una situación complicada. Puedo ayudarte a buscar un nuevo vuelo."
       ]
     },
     {
@@ -147,8 +146,6 @@
         "perdí mi equipaje",
         "mi equipaje no llegó",
         "no encuentro mi maleta",
-        "perdi mi valija",
-        "valija perdida",
         "mi equipaje está perdido",
         "¿qué hago si pierdo mi equipaje?",
         "mi maleta no apareció",
@@ -156,11 +153,11 @@
         "mi maleta está extraviada"
       ],
       "responses": [
-        "Lamento escuchar eso. Soy SkyLine, lo primero que debes hacer es contactar con la aerolínea para reportarlo.",
-        "Es importante que informes a la aerolínea lo antes posible. SkyLine te puede ayudar a encontrar el número de contacto.",
-        "No te preocupes, SkyLine está aquí para ayudarte. Lo más importante es notificarlo a la aerolínea. ¿Quieres que te ayude con eso?",
-        "Reportar el equipaje perdido es el primer paso. SkyLine puede ayudarte a saber cómo hacer un seguimiento.",
-        "Lo siento mucho, es una situación estresante. SkyLine puede ayudarte a iniciar el proceso de reclamación con la aerolínea."
+        "Lamento escuchar eso. Lo primero que debes hacer es contactar con la aerolínea para reportarlo.",
+        "Es importante que informes a la aerolínea lo antes posible. Puedo ayudarte a encontrar el número de contacto.",
+        "No te preocupes, lo más importante es notificarlo a la aerolínea. ¿Quieres que te ayude con eso?",
+        "Reportar el equipaje perdido es el primer paso. Puedo ayudarte a saber cómo hacer un seguimiento.",
+        "Lo siento mucho, es una situación estresante. Puedo ayudarte a iniciar el proceso de reclamación con la aerolínea."
       ]
     },
     {
@@ -176,11 +173,11 @@
         "¿qué documentos debo llevar?"
       ],
       "responses": [
-        "Depende del destino. Soy SkyLine, y usualmente necesitas un pasaporte válido y, en algunos casos, una visa.",
-        "Para la mayoría de los destinos internacionales, necesitarás un pasaporte. SkyLine está aquí para darte más detalles.",
-        "Algunos países requieren visas además del pasaporte. ¿A qué país planeas viajar? SkyLine te ayudará con eso.",
-        "Te puedo ayudar a verificar los requisitos específicos del país al que viajas. SkyLine está aquí para asistirte. ¿Dónde planeas ir?",
-        "Cada destino tiene requisitos diferentes. SkyLine puede ayudarte a verificar qué documentos necesitas para tu viaje."
+        "Depende del destino. Usualmente necesitas un pasaporte válido y, en algunos casos, una visa.",
+        "Para la mayoría de los destinos internacionales, necesitarás un pasaporte. ¿Te gustaría más detalles?",
+        "Algunos países requieren visas además del pasaporte. ¿A qué país planeas viajar?",
+        "Te puedo ayudar a verificar los requisitos específicos del país al que viajas. ¿Dónde planeas ir?",
+        "Cada destino tiene requisitos diferentes. Puedo ayudarte a verificar qué documentos necesitas para tu viaje."
       ]
     },
     {
@@ -196,11 +193,11 @@
         "¿qué hago si me enfermo durante el viaje?"
       ],
       "responses": [
-        "Algunos destinos requieren vacunas específicas. SkyLine puede ayudarte a saber más sobre algún país en particular.",
-        "Es recomendable tener un seguro de salud al viajar. ¿Te gustaría más información sobre eso? SkyLine está aquí para ayudarte.",
-        "Si te enfermas durante tu viaje, contacta a un médico local o a tu seguro de salud. SkyLine te recomienda siempre estar preparado.",
-        "Las vacunas y el seguro de salud son importantes. SkyLine puede ayudarte a encontrar más información sobre eso.",
-        "Cada país tiene diferentes requisitos de salud. SkyLine puede ayudarte a verificar lo que necesitas para tu destino."
+        "Algunos destinos requieren vacunas específicas. Puedo ayudarte a saber más sobre algún país en particular.",
+        "Es recomendable tener un seguro de salud al viajar. ¿Te gustaría más información sobre eso?",
+        "Si te enfermas durante tu viaje, contacta a un médico local o a tu seguro de salud. Siempre es mejor estar preparado.",
+        "Las vacunas y el seguro de salud son importantes. Puedo ayudarte a encontrar más información sobre eso.",
+        "Cada país tiene diferentes requisitos de salud. Puedo ayudarte a verificar lo que necesitas para tu destino."
       ]
     },
     {
@@ -216,11 +213,11 @@
         "¿qué opciones de entretenimiento hay durante el vuelo?"
       ],
       "responses": [
-        "Muchas aerolíneas ofrecen entretenimiento a bordo, como películas y música. SkyLine te recomienda prepararte antes del vuelo.",
-        "Puedes llevar un libro, descargar películas o podcasts para entretenerte durante el vuelo. SkyLine sugiere prepararte con anticipación.",
-        "Algunos aviones tienen Wi-Fi para que puedas navegar por Internet. SkyLine puede ayudarte a saber más sobre las opciones.",
-        "Si te aburres fácilmente, SkyLine te sugiere preparar algunos juegos o actividades que te mantengan entretenido.",
-        "Cada aerolínea ofrece diferentes opciones de entretenimiento. SkyLine puede ayudarte a saber qué esperar en tu vuelo."
+        "Muchas aerolíneas ofrecen entretenimiento a bordo, como películas y música. Te recomiendo prepararte antes del vuelo.",
+        "Puedes llevar un libro, descargar películas o podcasts para entretenerte durante el vuelo. Es bueno estar preparado.",
+        "Algunos aviones tienen Wi-Fi para que puedas navegar por Internet. Puedo ayudarte a saber más sobre las opciones.",
+        "Si te aburres fácilmente, te sugiero preparar algunos juegos o actividades que te mantengan entretenido.",
+        "Cada aerolínea ofrece diferentes opciones de entretenimiento. Puedo ayudarte a saber qué esperar en tu vuelo."
       ]
     },
     {
@@ -239,11 +236,11 @@
         "¿te gusta hablar de viajes?"
       ],
       "responses": [
-        "Estoy aquí para ayudarte en lo que necesites, especialmente en tus viajes. Soy SkyLine, tu asistente virtual.",
-        "Siempre estoy listo para ayudarte con cualquier consulta de viaje que tengas. Soy SkyLine, tu asistente virtual de viajes.",
-        "Viajar es una experiencia increíble. SkyLine siempre está aquí para asistirte. ¿Tienes algún destino en mente?",
-        "Me encanta asistir a personas que aman viajar. Soy SkyLine, tu asistente virtual. ¿En qué te puedo ayudar hoy?",
-        "Cada viaje es una nueva aventura. SkyLine está aquí para ayudarte a planificar la tuya."
+        "Estoy aquí para ayudarte en lo que necesites, especialmente en tus viajes.",
+        "Siempre estoy listo para ayudarte con cualquier consulta de viaje que tengas.",
+        "Viajar es una experiencia increíble. ¿Tienes algún destino en mente?",
+        "Me encanta asistir a personas que aman viajar. ¿En qué te puedo ayudar hoy?",
+        "Cada viaje es una nueva aventura. Estoy aquí para ayudarte a planificar la tuya."
       ]
     },
     {
@@ -258,11 +255,11 @@
         "¿cuál es el pronóstico del tiempo para mi destino?"
       ],
       "responses": [
-        "Puedo ayudarte a consultar el clima en tu destino. SkyLine está aquí para que estés preparado.",
+        "Puedo ayudarte a consultar el clima en tu destino. Es importante estar preparado.",
         "El clima puede variar, pero puedo ayudarte a encontrar el pronóstico más reciente. ¿Te gustaría saber más?",
-        "SkyLine puede verificar el pronóstico del tiempo para tu viaje. ¿Dónde te diriges?",
+        "Puedo verificar el pronóstico del tiempo para tu viaje. ¿Dónde te diriges?",
         "El clima es importante para planificar un viaje. Déjame ayudarte a verificar las condiciones.",
-        "SkyLine puede ayudarte a decidir qué empacar según el clima en tu destino."
+        "Puedo ayudarte a decidir qué empacar según el clima en tu destino."
       ]
     },
     {
@@ -277,11 +274,11 @@
         "¿debo alquilar un coche para mi viaje?"
       ],
       "responses": [
-        "Puedo ayudarte a encontrar la mejor opción de transporte para tu viaje. SkyLine está aquí para asistirte.",
-        "SkyLine puede ayudarte a planificar tu ruta hacia el aeropuerto. ¿Te gustaría saber más?",
-        "Cada destino tiene diferentes opciones de transporte. SkyLine puede ayudarte a decidir la mejor manera de moverte.",
-        "El transporte es una parte importante del viaje. SkyLine puede ayudarte a encontrar la mejor opción para ti.",
-        "¿Necesitas ayuda para decidir entre transporte público, taxi o coche de alquiler? SkyLine puede ayudarte."
+        "Puedo ayudarte a encontrar la mejor opción de transporte para tu viaje.",
+        "Puedo ayudarte a planificar tu ruta hacia el aeropuerto. ¿Te gustaría saber más?",
+        "Cada destino tiene diferentes opciones de transporte. Puedo ayudarte a decidir la mejor manera de moverte.",
+        "El transporte es una parte importante del viaje. Puedo ayudarte a encontrar la mejor opción para ti.",
+        "¿Necesitas ayuda para decidir entre transporte público, taxi o coche de alquiler? Puedo ayudarte."
       ]
     },
     {
@@ -296,11 +293,11 @@
         "¿cuáles son las recomendaciones de seguridad para mi viaje?"
       ],
       "responses": [
-        "La seguridad es importante. SkyLine puede ayudarte a verificar las advertencias de viaje y darte recomendaciones.",
-        "Puedo ayudarte a encontrar información sobre la seguridad en tu destino. SkyLine está aquí para ayudarte a mantenerte seguro.",
-        "SkyLine puede proporcionarte consejos de seguridad específicos para tu destino. ¿Te gustaría saber más?",
-        "Es importante estar informado sobre la seguridad en tu destino. SkyLine puede ayudarte a encontrar la información que necesitas.",
-        "SkyLine está aquí para ayudarte a planificar un viaje seguro. Déjame saber si necesitas más información."
+        "La seguridad es importante. Puedo ayudarte a verificar las advertencias de viaje y darte recomendaciones.",
+        "Puedo ayudarte a encontrar información sobre la seguridad en tu destino.",
+        "Puedo proporcionarte consejos de seguridad específicos para tu destino. ¿Te gustaría saber más?",
+        "Es importante estar informado sobre la seguridad en tu destino. Puedo ayudarte a encontrar la información que necesitas.",
+        "Estoy aquí para ayudarte a planificar un viaje seguro. Déjame saber si necesitas más información."
       ]
     },
     {
@@ -315,11 +312,11 @@
         "¿cuál es la mejor manera de disfrutar la gastronomía local?"
       ],
       "responses": [
-        "Cada destino tiene su propia gastronomía única. SkyLine puede ayudarte a descubrir los mejores platos y lugares.",
-        "SkyLine puede recomendarte opciones de comida basadas en tus preferencias. ¿Te gustaría saber más?",
-        "Explorar la comida local es una parte importante del viaje. SkyLine está aquí para ayudarte a encontrar las mejores opciones.",
-        "Déjame ayudarte a descubrir la gastronomía de tu destino. SkyLine puede recomendarte algunos lugares.",
-        "Si eres amante de la comida, SkyLine puede ayudarte a planificar una aventura gastronómica en tu destino."
+        "Cada destino tiene su propia gastronomía única. Puedo ayudarte a descubrir los mejores platos y lugares.",
+        "Puedo recomendarte opciones de comida basadas en tus preferencias. ¿Te gustaría saber más?",
+        "Explorar la comida local es una parte importante del viaje. Estoy aquí para ayudarte a encontrar las mejores opciones.",
+        "Déjame ayudarte a descubrir la gastronomía de tu destino. Puedo recomendarte algunos lugares.",
+        "Si eres amante de la comida, puedo ayudarte a planificar una aventura gastronómica en tu destino."
       ]
     },
     {
@@ -334,17 +331,16 @@
         "¿cómo contacto a la embajada en caso de emergencia?"
       ],
       "responses": [
-        "En caso de emergencia, es importante conocer los números de contacto. SkyLine puede ayudarte a encontrarlos.",
-        "Puedo ayudarte a encontrar el hospital más cercano o el número de emergencia en tu destino. SkyLine está aquí para asistirte.",
-        "SkyLine puede ayudarte a saber qué hacer en caso de que pierdas tus documentos o necesites asistencia médica.",
-        "La seguridad es lo primero. Déjame ayudarte a preparar un plan de emergencia. SkyLine está aquí para ti.",
-        "Si necesitas asistencia en caso de emergencia, SkyLine puede proporcionarte la información necesaria para contactar a las autoridades."
+        "En caso de emergencia, es importante conocer los números de contacto. Puedo ayudarte a encontrarlos.",
+        "Puedo ayudarte a encontrar el hospital más cercano o el número de emergencia en tu destino.",
+        "Puedo ayudarte a saber qué hacer en caso de que pierdas tus documentos o necesites asistencia médica.",
+        "La seguridad es lo primero. Déjame ayudarte a preparar un plan de emergencia.",
+        "Si necesitas asistencia en caso de emergencia, puedo proporcionarte la información necesaria para contactar a las autoridades."
       ]
     },
     {
       "tag": "entretenimiento",
       "patterns": [
-        "estoy aburrido que puedo hacer",
         "¿qué puedo hacer en mi destino?",
         "¿hay actividades recreativas?",
         "¿qué lugares turísticos debo visitar?",
@@ -354,11 +350,11 @@
         "¿qué actividades al aire libre puedo hacer en mi destino?"
       ],
       "responses": [
-        "Cada destino tiene algo único que ofrecer. SkyLine puede ayudarte a descubrir las mejores actividades y lugares para visitar.",
-        "Si te gusta explorar, SkyLine puede recomendarte algunos lugares turísticos y actividades recreativas en tu destino.",
-        "Explorar eventos locales es una gran manera de disfrutar tu viaje. SkyLine puede ayudarte a encontrar eventos durante tu estancia.",
-        "SkyLine está aquí para ayudarte a planificar actividades emocionantes en tu destino. ¿Te gustaría saber más?",
-        "Desde eventos culturales hasta actividades al aire libre, SkyLine puede ayudarte a encontrar la diversión en tu destino."
+        "Cada destino tiene algo único que ofrecer. Puedo ayudarte a descubrir las mejores actividades y lugares para visitar.",
+        "Si te gusta explorar, puedo recomendarte algunos lugares turísticos y actividades recreativas en tu destino.",
+        "Explorar eventos locales es una gran manera de disfrutar tu viaje. Puedo ayudarte a encontrar eventos durante tu estancia.",
+        "Estoy aquí para ayudarte a planificar actividades emocionantes en tu destino. ¿Te gustaría saber más?",
+        "Desde eventos culturales hasta actividades al aire libre, puedo ayudarte a encontrar la diversión en tu destino."
       ]
     },
     {
@@ -370,15 +366,206 @@
         "¿tienes algún consejo para evitar el jet lag?",
         "¿qué debo empacar?",
         "¿cómo puedo hacer que mi viaje sea más cómodo?",
-        "¿tienes alguna sugerencia para mi viaje?",
-        "tenes algun tip para el viaje"
+        "¿tienes alguna sugerencia para mi viaje?"
       ],
       "responses": [
-        "SkyLine está lleno de consejos útiles para tus viajes. Déjame ayudarte a preparar tu próximo viaje con éxito.",
-        "Desde cómo empacar hasta cómo evitar el jet lag, SkyLine tiene muchos consejos de viaje para compartir.",
-        "SkyLine puede ayudarte a preparar tu equipaje y darte sugerencias para un viaje cómodo. ¿Te gustaría saber más?",
-        "Planificar con antelación hace que el viaje sea más agradable. SkyLine está aquí para darte algunos consejos útiles.",
-        "Cada viaje es diferente, pero SkyLine está aquí para ayudarte a hacer que tu experiencia sea la mejor posible."
+        "Tengo muchos consejos útiles para tus viajes. Déjame ayudarte a preparar tu próximo viaje con éxito.",
+        "Desde cómo empacar hasta cómo evitar el jet lag, tengo muchos consejos de viaje para compartir.",
+        "Puedo ayudarte a preparar tu equipaje y darte sugerencias para un viaje cómodo. ¿Te gustaría saber más?",
+        "Planificar con antelación hace que el viaje sea más agradable. Estoy aquí para darte algunos consejos útiles.",
+        "Cada viaje es diferente, pero estoy aquí para ayudarte a hacer que tu experiencia sea la mejor posible."
+      ]
+    },
+    {
+      "tag": "check_in_hotel",
+      "patterns": [
+        "¿cómo hago el check-in en el hotel?",
+        "¿a qué hora puedo hacer el check-in?",
+        "¿qué documentos necesito para el check-in?",
+        "¿puedo hacer check-in temprano?",
+        "¿cómo hago el registro en el hotel?"
+      ],
+      "responses": [
+        "Para hacer el check-in en el hotel, generalmente necesitarás una identificación y la confirmación de la reserva. Puedes consultar con el hotel para ver si permiten check-in temprano.",
+        "La hora de check-in varía según el hotel, pero generalmente es a las 3:00 PM. Verifica con tu hotel para confirmar.",
+        "La mayoría de los hoteles requieren un pasaporte o identificación, junto con la confirmación de la reserva para el check-in.",
+        "Si necesitas hacer check-in temprano, te sugiero que contactes al hotel con anticipación para solicitarlo."
+      ]
+    },
+    {
+      "tag": "check_out_hotel",
+      "patterns": [
+        "¿cómo hago el check-out en el hotel?",
+        "¿a qué hora es el check-out?",
+        "¿puedo hacer check-out tarde?",
+        "¿qué debo hacer antes de hacer check-out?",
+        "¿cómo puedo extender mi estancia en el hotel?"
+      ],
+      "responses": [
+        "El check-out generalmente se hace a las 11:00 AM. Verifica con el hotel si necesitas hacer check-out tarde.",
+        "Para hacer el check-out, asegúrate de que no hayas dejado pertenencias en la habitación y devuelve las llaves en la recepción.",
+        "Si necesitas hacer check-out tarde, te recomiendo que contactes al hotel con anticipación para verificar la disponibilidad.",
+        "Si deseas extender tu estancia, contacta a la recepción lo antes posible para hacer los arreglos necesarios."
+      ]
+    },
+    {
+      "tag": "recomendaciones_locales",
+      "patterns": [
+        "¿qué lugares recomiendas visitar?",
+        "¿cuáles son las mejores atracciones en esta ciudad?",
+        "¿hay algún lugar escondido que deba conocer?",
+        "¿qué no debo perderme en mi visita?",
+        "¿hay algún sitio que solo los locales conozcan?"
+      ],
+      "responses": [
+        "Cada ciudad tiene joyas escondidas. Te recomiendo visitar los mercados locales y áreas menos turísticas para una experiencia más auténtica.",
+        "Las principales atracciones pueden ser populares, pero explorar los barrios locales también puede ofrecerte una experiencia increíble.",
+        "No te pierdas la oportunidad de probar la comida callejera local. Es una manera excelente de conocer la cultura del lugar.",
+        "Explorar parques y áreas naturales es una excelente forma de relajarse y disfrutar de la belleza del lugar."
+      ]
+    },
+    {
+      "tag": "wifi",
+      "patterns": [
+        "¿hay Wi-Fi gratuito en mi destino?",
+        "¿dónde puedo encontrar Wi-Fi gratuito?",
+        "¿cómo puedo conectarme a Internet durante mi viaje?",
+        "¿necesito comprar una tarjeta SIM para Internet?",
+        "¿hay hotspots de Wi-Fi gratuitos en la ciudad?"
+      ],
+      "responses": [
+        "Muchos cafés y restaurantes ofrecen Wi-Fi gratuito. También puedes encontrar Wi-Fi en parques y plazas públicas.",
+        "Si necesitas estar conectado todo el tiempo, considera comprar una tarjeta SIM local con un plan de datos.",
+        "Las aplicaciones móviles pueden ayudarte a encontrar hotspots de Wi-Fi gratuitos cerca de tu ubicación.",
+        "Es buena idea tener un plan B, como una tarjeta SIM local o un dispositivo portátil de Wi-Fi, en caso de que no encuentres Wi-Fi gratuito fácilmente."
+      ]
+    },
+    {
+      "tag": "idioma_local",
+      "patterns": [
+        "¿necesito saber el idioma local?",
+        "¿hablan inglés en mi destino?",
+        "¿puedo arreglármelas sin hablar el idioma local?",
+        "¿qué frases básicas debo aprender?",
+        "¿puedo comunicarme en inglés?"
+      ],
+      "responses": [
+        "Aunque el inglés es ampliamente hablado en muchas áreas turísticas, aprender algunas frases básicas en el idioma local puede ser muy útil.",
+        "Siempre es una buena idea aprender frases como 'Hola', 'Gracias', y '¿Dónde está?' en el idioma local.",
+        "En áreas rurales o menos turísticas, puede que el inglés no sea tan común. Aprender frases básicas puede mejorar tu experiencia.",
+        "Te recomiendo descargar una aplicación de traducción o llevar un pequeño diccionario para ayudarte a comunicarte."
+      ]
+    },
+    {
+      "tag": "moneda",
+      "patterns": [
+        "¿cuál es la moneda local?",
+        "¿dónde puedo cambiar dinero?",
+        "¿aceptan dólares en mi destino?",
+        "¿necesito llevar efectivo?",
+        "¿hay cajeros automáticos disponibles?"
+      ],
+      "responses": [
+        "La moneda local varía según el país. Es recomendable llevar algo de efectivo en la moneda local, especialmente para pequeñas compras.",
+        "Puedes cambiar dinero en el aeropuerto, en bancos, o en casas de cambio en la ciudad.",
+        "En algunas áreas turísticas, los dólares pueden ser aceptados, pero es mejor tener la moneda local para evitar problemas.",
+        "Hay cajeros automáticos disponibles en la mayoría de las ciudades, pero verifica las tarifas antes de retirar efectivo."
+      ]
+    },
+    {
+      "tag": "propinas",
+      "patterns": [
+        "¿debo dejar propina?",
+        "¿cuál es la costumbre de las propinas en mi destino?",
+        "¿cuánto debo dejar de propina?",
+        "¿es obligatorio dejar propina?",
+        "¿debo dejar propina en restaurantes?"
+      ],
+      "responses": [
+        "Las costumbres de propinas varían según el país. En algunos lugares es opcional, mientras que en otros se espera una propina del 10-15%.",
+        "En muchos países, dejar una propina es una muestra de agradecimiento por un buen servicio.",
+        "Si no estás seguro de cuánto dejar, un 10% es generalmente una cantidad aceptable.",
+        "En algunos países, la propina ya está incluida en la cuenta, así que revisa antes de dejar dinero extra."
+      ]
+    },
+    {
+      "tag": "telefonia",
+      "patterns": [
+        "¿cómo puedo usar mi teléfono en el extranjero?",
+        "¿necesito una tarjeta SIM local?",
+        "¿puedo usar mi plan de datos en otro país?",
+        "¿cuánto cuesta hacer llamadas internacionales?",
+        "¿dónde puedo comprar una tarjeta SIM?"
+      ],
+      "responses": [
+        "Es recomendable comprar una tarjeta SIM local para evitar altos costos de roaming.",
+        "Consulta con tu proveedor de servicios si tienen un plan de roaming internacional para tu destino.",
+        "Las tarjetas SIM locales son generalmente más económicas y te proporcionarán datos y llamadas locales.",
+        "Puedes comprar una tarjeta SIM en el aeropuerto o en tiendas de telefonía en la ciudad."
+      ]
+    },
+    {
+      "tag": "eventos_especiales",
+      "patterns": [
+        "¿hay algún evento especial durante mi estancia?",
+        "¿qué festivales ocurren en mi destino?",
+        "¿hay algún evento deportivo interesante?",
+        "¿cómo puedo saber sobre eventos culturales?",
+        "¿hay algún concierto o evento musical?"
+      ],
+      "responses": [
+        "Los eventos especiales pueden variar, desde festivales culturales hasta eventos deportivos. Consulta calendarios locales o sitios de turismo.",
+        "Es recomendable verificar los sitios web oficiales de la ciudad o aplicaciones móviles para conocer los eventos actuales.",
+        "Si estás interesado en eventos específicos, puedo ayudarte a buscar información sobre ellos.",
+        "Los festivales locales son una excelente manera de sumergirte en la cultura de tu destino."
+      ]
+    },
+    {
+      "tag": "visa",
+      "patterns": [
+        "¿necesito una visa para mi viaje?",
+        "¿cómo solicito una visa?",
+        "¿cuánto tiempo toma obtener una visa?",
+        "¿qué países requieren visa?",
+        "¿dónde puedo solicitar una visa?"
+      ],
+      "responses": [
+        "Dependiendo de tu nacionalidad y destino, podrías necesitar una visa. Es mejor verificarlo antes de viajar.",
+        "Puedes solicitar una visa en la embajada o consulado del país al que viajas. Algunos países también ofrecen visas electrónicas.",
+        "El tiempo de procesamiento de una visa varía, así que es recomendable solicitarla con anticipación.",
+        "Algunos países permiten la entrada sin visa para estancias cortas, pero otros requieren una visa incluso para turismo."
+      ]
+    },
+    {
+      "tag": "alquiler_coche",
+      "patterns": [
+        "¿cómo alquilo un coche?",
+        "¿necesito una licencia internacional para alquilar un coche?",
+        "¿cuál es la mejor compañía de alquiler de coches?",
+        "¿es seguro conducir en mi destino?",
+        "¿qué documentos necesito para alquilar un coche?"
+      ],
+      "responses": [
+        "Para alquilar un coche, generalmente necesitas una licencia de conducir válida y una tarjeta de crédito.",
+        "En algunos países, se requiere una licencia de conducir internacional, además de tu licencia nacional.",
+        "Las compañías de alquiler de coches varían en precio y servicio. Te recomiendo comparar opciones antes de tomar una decisión.",
+        "Conducir en un país extranjero puede ser diferente. Asegúrate de conocer las normas de tráfico locales antes de alquilar un coche."
+      ]
+    },
+    {
+      "tag": "mejor_epoca_visitar",
+      "patterns": [
+        "¿cuál es la mejor época para visitar mi destino?",
+        "¿cuándo es la temporada alta en mi destino?",
+        "¿debo evitar alguna época del año?",
+        "¿cuál es el clima en diferentes estaciones?",
+        "¿cuál es la temporada baja para viajar?"
+      ],
+      "responses": [
+        "La mejor época para visitar depende de tus preferencias. La temporada alta suele tener más turistas, pero mejor clima.",
+        "La temporada baja puede ser más económica y menos concurrida, pero asegúrate de verificar el clima.",
+        "Cada destino tiene su propia mejor época para visitar. Puedo ayudarte a investigar según lo que prefieras.",
+        "Evitar la temporada de lluvias o el invierno extremo puede mejorar tu experiencia de viaje."
       ]
     }
   ]
